@@ -217,7 +217,7 @@ GameObject:
   - component: {fileID: 185230716}
   - component: {fileID: 185230717}
   m_Layer: 0
-  m_Name: Dramer Statue 2
+  m_Name: Dreamer Statue 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -599,7 +599,7 @@ MonoBehaviour:
   m_Version: 2
   m_TaaSettings:
     m_Quality: 3
-    m_FrameInfluence: 0.1
+    m_FrameInfluence: 0.100000024
     m_JitterScale: 1
     m_MipBias: 0
     m_VarianceClampScale: 0.9
