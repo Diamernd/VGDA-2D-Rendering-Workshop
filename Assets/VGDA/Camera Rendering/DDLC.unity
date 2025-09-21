@@ -537,7 +537,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &758026732
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -754,7 +754,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Hi, this is Sayori from the hit game Doki Doki Literature Club! Notice
     how the text wraps within the textbox. That is because the size of the text field
-    is slightly smaller than the drawn text box! This makes automatically drawing
+    is slightly smaller than the drawn text box! This makes automatically writing
     text incredibly easy! But what happens when the text moves offscreen...Looks
     like you gotta make the text smaller
   m_isRightToLeft: 0
@@ -1364,12 +1364,12 @@ GameObject:
   - component: {fileID: 1789479203}
   - component: {fileID: 1789479202}
   m_Layer: 0
-  m_Name: Talking Happy
+  m_Name: Talking
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!212 &1789479202
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1538,7 +1538,7 @@ GameObject:
   - component: {fileID: 1910328026}
   - component: {fileID: 1910328025}
   m_Layer: 0
-  m_Name: class
+  m_Name: Classroom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
