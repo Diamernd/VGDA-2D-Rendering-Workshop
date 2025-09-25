@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: d064385dfce29934793208022539c6cd
-AssetOrigin:
-  serializedVersion: 1
-  productId: 177430
-  packageName: Free 2D Mega Pack
-  packageVersion: 1.0
-  assetPath: Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy03.png
-  uploadId: 386437
+guid: 4ebd6f6527af7814c8b55dc85093dbc5
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -74,7 +67,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
