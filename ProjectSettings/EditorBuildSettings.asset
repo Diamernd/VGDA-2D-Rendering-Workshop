@@ -6,8 +6,26 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/VGDA Samples/Sprite Basics/Sprite Basics Scene.unity
+    guid: 98eb972886f90d14fae34bea03b4b298
+  - enabled: 1
     path: Assets/VGDA Samples/Post Processing/Dungeon Scene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/VGDA Samples/Camera Rendering/HK Fountain.unity
+    guid: 6ea61c28ca7dc62479103ea89bb552a2
+  - enabled: 1
+    path: Assets/VGDA Samples/Camera Rendering/DDLC.unity
+    guid: e36a9cac34c474643b4813ff50a9303b
+  - enabled: 1
+    path: Assets/VGDA Samples/Camera Rendering/Stardew Valley.unity
+    guid: f6383489de3133447b2efd0bef2b3ee1
+  - enabled: 1
+    path: Assets/VGDA Samples/User interface/Persona 5.unity
+    guid: b884da958ce51e54cba8053633deedda
+  - enabled: 1
+    path: Assets/VGDA Samples/User interface/Ui Image Properties.unity
+    guid: 0c88be71d6806f04eb350dbea0c4e2f4
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
